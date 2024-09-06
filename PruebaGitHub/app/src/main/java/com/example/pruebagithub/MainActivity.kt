@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PruebaGitHubTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android", //Layla
+                        name = "Android", //Layla V
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
